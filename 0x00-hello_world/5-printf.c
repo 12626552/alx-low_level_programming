@@ -1,5 +1,5 @@
 #include <stido.h>
-/*
+/**
  * main - Entry
  * Return: Always 0
  */
