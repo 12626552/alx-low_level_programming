@@ -5,12 +5,13 @@
 /**
  * main - Entry point
  *
- * Retur: Always 0 (success)
+ * Return: Always 0 (success)
+ *
  */
+
 int main(void)
 {
 	int n;
-
 	int m;
 
 	srand(time(0));
