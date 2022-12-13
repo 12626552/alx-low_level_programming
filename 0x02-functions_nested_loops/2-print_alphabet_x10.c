@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * print_alphabet_v10 - prints alphabet 10 times
+ * print_alphabet_x10 - prints alphabet 10 times for the function
  * Return: void
  */
 
 void print_alphabet_x10(void)
 {
 	char c;
-
 	int i = 0;
 
 	while (i < 10)
